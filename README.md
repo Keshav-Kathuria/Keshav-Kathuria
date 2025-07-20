@@ -18,17 +18,53 @@ Open to contributions and collaborative full-stack opportunities. Always eager t
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** | **AI/ML & Data** | **Tools & Platforms** |
-|--------------|-------------|------------------|----------------------|
-| ![React](https://skillicons.dev/icons?i=react) React | ![Java](https://skillicons.dev/icons?i=java) Java | ![PyTorch](https://skillicons.dev/icons?i=pytorch) PyTorch | ![Git](https://skillicons.dev/icons?i=git) Git |
-| ![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript | ![Spring](https://skillicons.dev/icons?i=spring) Spring Boot | ![Python](https://skillicons.dev/icons?i=python) NumPy, Pandas | ![GitHub](https://skillicons.dev/icons?i=github) GitHub |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript | ![Flask](https://skillicons.dev/icons?i=flask) Flask | ![Python](https://skillicons.dev/icons?i=python) Scikit-Learn | ![VSCode](https://skillicons.dev/icons?i=vscode) VS Code |
-| ![HTML](https://skillicons.dev/icons?i=html) HTML5 | ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL | ![Python](https://skillicons.dev/icons?i=python) Matplotlib | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) Jupyter |
-| ![CSS](https://skillicons.dev/icons?i=css) CSS3 | ![MongoDB](https://skillicons.dev/icons?i=mongodb) MongoDB | ![R](https://skillicons.dev/icons?i=r) R | ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) Colab |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) Tailwind CSS | ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js | | ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) Anaconda |
-| | ![Express](https://skillicons.dev/icons?i=express) Express.js | | |
-| | ![Supabase](https://skillicons.dev/icons?i=supabase) Supabase | | |
-| | ![Firebase](https://skillicons.dev/icons?i=firebase) Firebase | | |
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend Development  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 
 ---
 
