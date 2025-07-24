@@ -1,7 +1,7 @@
 # Hi there, I'm [Keshav Kathuria] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=BTech+CSE+(AI-ML)+Student;Backend+%26+Full+Stack+Developer;Problem+Solver;LeetCode+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=BTech+CSE+(AI-ML)+Student;Backend+%26+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -65,29 +65,6 @@ Open to contributions and collaborative full-stack opportunities. Always eager t
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 [Plant Disease Detection App](https://github.com/Keshav-Kathuria/Plant_Disease_Detection)
-🔍 Identifies plant diseases using a CNN model, provides treatment suggestions and product links.  
-**Tech Stack:** Flask, PyTorch, HTML/CSS, Google Maps API
-
-### 🔹 Whisprlog *(Coming Soon)*
-🎙️ A voice-based journaling app with real-time entry syncing and mood tracking.  
-**Tech Stack:** React, Supabase, TypeScript, Google Auth
-
----
-
-## 💼 Key Achievements
-
-- 🌱 **200+ LeetCode problems solved** - Strengthening algorithmic thinking and problem-solving skills
-- 🛠️ **Built full-stack projects** using React, TypeScript, and Flask
-- 🎯 **Focused learning path** in Java, MySQL, and Spring Boot for backend mastery
-- 🤝 **Open source mindset** - Always ready to collaborate and contribute
-
----
 
 ## 💡 Core Competencies
 
